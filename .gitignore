@@ -1,0 +1,8 @@
+lazy-lock.json
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.ssh/id_*
+.ssh/known_hosts
